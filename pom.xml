@@ -51,4 +51,12 @@
         </repository>
     </distributionManagement>
 
+    <dependencies>
+        <dependency>
+            <groupId>pl.yourempire</groupId>
+            <artifactId>YourEmpire</artifactId>
+            <version>0.1</version>
+        </dependency>
+    </dependencies>
+
 </project>
